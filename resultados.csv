@@ -1,0 +1,4 @@
+file,structure,ops,nodes,time_ms,equal_to_rn
+operaciones.txt,BST,4,0,0.004,true
+operaciones.txt,AVL,4,0,0.005,true
+operaciones.txt,RN,4,2,0.008,NA
